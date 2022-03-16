@@ -1,2 +1,4 @@
 # python-hurricane-analysis
-Project Challenge from Codecademy - Hurricane Analysis. Code written in Python language
+ Codecademy project challenges for data analysis in Python.
+ The following projects are included:
+ 1. Hurricane Analysis -> data cleaning and analysis in python
